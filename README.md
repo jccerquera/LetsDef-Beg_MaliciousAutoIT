@@ -6,6 +6,6 @@ Este contenido inicialmente es de caracter personal y de estudio constantey recu
 
     Rol: Security Analyst
     Dificultad: Beginner
-    Escenario: Análisis de malware (info)
+    Escenario: Análisis de malware (identifcación)
 
 ![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/Malicious-AutoIT.JPG)
