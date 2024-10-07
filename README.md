@@ -8,4 +8,4 @@ Este contenido se proporciona con fines informativos y aprendizaje mutuo entre p
     Plataforma: Lets Defend
     Dificultad: Beginner
 
-![image](https://www.campusciberseguridad.com/media/k2/items/cache/9267284e7733f4bec00d2e114d3f3ba1_L.jpg)
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/Malicious-AutoIT.JPG)
