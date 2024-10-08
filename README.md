@@ -1,6 +1,6 @@
 ## *Disclaimer*
 
-Este contenido es de caracter personal, de autoaprendizaje constante y recurrente, adicional quiero compartir con fines informativos y de aprendizaje para los demás profesionales de este sector. Es de aclarar que, los ejemplos y escenarios presentados son hipotéticos, así mismo, las plataformas utilizadas son públicas en donde pueden reflejar situaciones similares a las de las compñaías; estás plataformas cuentan con diferentes escenarios y en sus laboratorios. Las tecnologíasal igual que las herramientas utilizadas están sujetas a cambios constantes.
+*Este contenido es de caracter personal, de autoaprendizaje constante y recurrente, adicional quiero compartir con fines informativos y de aprendizaje para los demás profesionales de este sector. Es de aclarar que, los ejemplos y escenarios presentados son hipotéticos, así mismo, las plataformas utilizadas son públicas en donde pueden reflejar situaciones similares a las de las compñaías; estás plataformas cuentan con diferentes escenarios y en sus laboratorios. Las tecnologíasal igual que las herramientas utilizadas están sujetas a cambios constantes.*
 
 # LetsDefend | Malicious AutoIT
 
@@ -24,11 +24,11 @@ Este contenido es de caracter personal, de autoaprendizaje constante y recurrent
 	
 *- Entropía de un archivo: Medida de la aleatoriedad o desorden de los datos que componen el archivo. Nos indica qué tan dispersos están los bytes que lo conforman.*
 	
-*- Importancia de la entropía:*
+- Importancia de la entropía:
+  
+	*+ Detección de archivos sospechosos: Un archivo  vacío tendría una entropía muy baja, mientras que, un archivo cifrado o con datos aleatorios tendría una entropía muy alta.*
 
-   *- Detección de archivos sospechosos: Un archivo  vacío tendría una entropía muy baja, mientras que, un archivo cifrado o con datos aleatorios tendría una entropía muy alta.*
- 
-   *- Análisis de malware: El análisis de la entropía puede ayudar a identificar archivos que contienen código malicioso, este a menudo puede presentar patrones de bits que se desvían de lo normal.*
-   
-		6.58565
+	*+ Análisis de malware: El análisis de la entropía puede ayudar a identificar archivos que contienen código malicioso, este a menudo puede presentar patrones de bits que se desvían de lo normal.*
+
+			6.58565
 
