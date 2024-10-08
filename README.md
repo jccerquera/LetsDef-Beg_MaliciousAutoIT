@@ -17,16 +17,18 @@ Este contenido es de caracter personal, de autoaprendizaje constante y recurrent
 	
 *- MD5: función hash criptográfica que se utiliza para generar un identificador único de un archivo en una cadena de caracteres de 128 bits (32 caracteres hexadecimales).*
 	
-	    5e53b40cf972f4eb08990999ce17c5c8
+	    #### 5e53b40cf972f4eb08990999ce17c5c8 ####
 	
 	
-2. Según la herramienta Detect It Easy (DIE), ¿Cuál es la entropía del archivo de muestra?
+### 2. Según la herramienta Detect It Easy (DIE), ¿Cuál es la entropía del archivo de muestra? ###
 	
-	*- Entropía de un archivo: Medida de la aleatoriedad o desorden de los datos que componen el archivo. Nos indica qué tan dispersos están los bytes que lo conforman.*
+*- Entropía de un archivo: Medida de la aleatoriedad o desorden de los datos que componen el archivo. Nos indica qué tan dispersos están los bytes que lo conforman.*
 	
-	*- Importancia de la entropía:
-   		- Detección de archivos sospechosos: Un archivo  vacío tendría una entropía muy baja, mientras que, un archivo cifrado o con datos aleatorios tendría una entropía muy alta.
-   		- Análisis de malware: El análisis de la entropía puede ayudar a identificar archivos que contienen código malicioso, este a menudo puede presentar patrones de bits que se desvían de lo normal.*
+*- Importancia de la entropía:*
+
+	*- Detección de archivos sospechosos: Un archivo  vacío tendría una entropía muy baja, mientras que, un archivo cifrado o con datos aleatorios tendría una entropía muy alta.*
+ 
+	*- Análisis de malware: El análisis de la entropía puede ayudar a identificar archivos que contienen código malicioso, este a menudo puede presentar patrones de bits que se desvían de lo normal.*
    
-	    6.58565
+		### 6.58565 ###
 
