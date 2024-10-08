@@ -18,8 +18,8 @@
 - MD5: función hash criptográfica que se utiliza para generar un identificador único de un archivo en una cadena de caracteres de 128 bits (32 caracteres hexadecimales).
 
 ![image]("Imagen - Ejercicio 1")
-	
-			5e53b40cf972f4eb08990999ce17c5c8
+
+	5e53b40cf972f4eb08990999ce17c5c8
 	
 	
 ### 2. Según la herramienta Detect It Easy (DIE), ¿Cuál es la entropía del archivo de muestra? ###
@@ -32,5 +32,7 @@
 
 	+ Análisis de malware: El análisis de la entropía puede ayudar a identificar archivos que contienen código malicioso, este a menudo puede presentar patrones de bits que se desvían de lo normal.
 
-			6.58565
+![image]("Imagen - Ejercicio 2")
+
+	6.58565
 
