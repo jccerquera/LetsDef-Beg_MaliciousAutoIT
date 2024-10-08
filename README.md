@@ -8,7 +8,7 @@ Este contenido inicialmente es de caracter personal y de estudio constantey recu
     Dificultad: Beginner
     Escenario: Análisis de malware (identifcación)
 
-![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/Malicious-AutoIT.JPG)
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/Malicious-AutoIT.JPG "Lets Defend - Malicious AutoIT")
 
 
 1. ¿Cuál es el hash MD5 del archivo de muestra?
