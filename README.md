@@ -11,7 +11,7 @@ Este contenido es de caracter personal, de autoaprendizaje constante y recurrent
 ![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/Malicious-AutoIT.JPG "Lets Defend - Malicious AutoIT")
 
 
-### 1. ¿Cuál es el hash MD5 del archivo de muestra?
+1. ###¿Cuál es el hash MD5 del archivo de muestra?
 	
 	*hash: Función matemática que transforma cualquier entrada (texto, archivo, etc.) en una cadena de caracteres de longitud fija llamada valor hash. Este valor es único e imposible de revertir.*
 	
