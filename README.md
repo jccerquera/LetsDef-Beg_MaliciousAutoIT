@@ -23,7 +23,7 @@
 	5e53b40cf972f4eb08990999ce17c5c8
 	
 	
-### 2. Según la herramienta Detect It Easy (DIE), ¿Cuál es la entropía del archivo de muestra? ###
+### 2. Según la herramienta Detect It Easy (DIE), ¿Cuál es la entropía de la muestra? ###
 	
 - Entropía de un archivo: Medida de la aleatoriedad o desorden de los datos que componen el archivo. Nos indica qué tan dispersos están los bytes que lo conforman.
 	
@@ -44,7 +44,7 @@ Formato de respuesta: 0x0000
 	
 - Dirección virtual: Es un número que un programa utiliza para referirse a una ubicación dentro de la memoria, pero no su ubicación física.
 
-- Sección «.text»: Este es el cerebro del programa, aquí reside el código que le indica al ordenador qué hacer.
+- Sección «.text»: Este es el cerebro del programa, aquí reside el código que le indica al ordenador las acciones a realizar.
 
 - ¿Qué es este formato 0x0000?: Notación hexadecimal. Es la forma de representar números en base 16.
 
@@ -76,24 +76,24 @@ Formato de respuesta: 0x000000
 	0x42800a
 
 
-### 6. ¿Cuál es el dominio utilizado por el código malicioso incrustado? ###
+### 6. ¿A qué dominio redirecciona el código malicioso? ###
 
 Para el ejercicio se puede traer de varias formas, mostraremos 2 de ellas.
 
-- VirusTotal: Buscando el HASH MD5 del archivo.
+- VirusTotal: Buscando el HASH MD5 identificado en el primer punto, y luego en la pestaña RELATIONS.
 
 ![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/6-1-domain.jpg "VirusTotal")
 
-- AutoIT Ripper: Es un Script en python
+- AutoIT Ripper: Script en python que permite extraer datos a partir de ejecutables PE (Portables executable), luego se exporta un archivo de nombre: script.au3, que posteriormente lo abrimos con Notepad ++
 
 ![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/6-2-domain.jpg "AutoIT Ripper")
 	
 	office-cleaner-commander.com
 
 	
-7. ¿Cuál es la ruta del archivo codificada en hexadecimal en el código malicioso?
+7. ¿Cuál es la ruta codificada en hexadecimal del código malicioso?
 
-Utilizando el mismo SCRIPT del punto anterior, logramos ver en la fila XX la cadena "XXXXXXX" con el valor "0x3A5C57696E646F77735C53797374656D33325C". Aquí podemos utilizar cualquier sitio web que convierta hexadecimal (HEX) a texto (TEXT).
+Utilizando el mismo SCRIPT del punto anterior, se identifica en la fila 46 una variable local con el valor en HEX "0x3A5C57696E646F77735C53797374656D33325C". Aquí podemos utilizar cualquier sitio web que convierta hexadecimal (HEX) a texto (TEXT).
 
 ![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/7-nameHEX.jpg "Name HEX")
 
