@@ -10,6 +10,7 @@
 
 ![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/Malicious-AutoIT.JPG "Lets Defend - Malicious AutoIT")
 
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/openChallenge.jpg "Open Challenge")
 
 ### 1. ¿Cuál es el hash MD5 del archivo de muestra? ###
 	
@@ -17,7 +18,7 @@
 	
 - MD5: función hash criptográfica que se utiliza para generar un identificador único de un archivo en una cadena de caracteres de 128 bits (32 caracteres hexadecimales).
 
-![image]("Imagen - Ejercicio 1")
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/1-hashMD5.jpg "Hash: MD5")
 
 	5e53b40cf972f4eb08990999ce17c5c8
 	
@@ -32,7 +33,7 @@
 
 	+ Análisis de malware: El análisis de la entropía puede ayudar a identificar archivos que contienen código malicioso, este a menudo puede presentar patrones de bits que se desvían de lo normal.
 
-![image]("Imagen - Ejercicio 2")
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/2-entropy.jpg "Entropy")
 
 	6.58565
 
@@ -51,7 +52,7 @@ Formato de respuesta: 0x0000
  
  	+ 0000: Cuatro dígitos hexadecimales que puede tomar valores del 0 al 9 y de la A a la F.
 
-![image]("Imagen - Ejercicio 3")
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/3-virtualAddress.jpg "Virtual Address")
 
 	0x1000
 
@@ -60,7 +61,7 @@ Formato de respuesta: 0x0000
 	
 - Time Date Stamp(sello de fecha y hora): Es la marca de tiempo que indica la última vez que se creó, modificó o se accedió al archivo.
 
-![image]("Imagen - Ejercicio 4")
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/4-timeDateStamp.jpg "Time Date Stamp")
 
 	2020-02-26 21:41:13
 
@@ -70,7 +71,7 @@ Formato de respuesta: 0x000000
 	
 - Entry Point (dirección del punto de entrada): Es el lugar exacto en el código donde comienza la ejecución del programa cuando se inicia. Es representado en hexadecimal (HEX) debido a que indica la ubicación exacta de la primera instrucción del programa en memoria.
 
-![image]("Imagen - Ejercicio 5")
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/5-entryPoint.jpg "Entry Point")
 	
 	0x42800a
 
@@ -81,11 +82,11 @@ Para el ejercicio se puede traer de varias formas, mostraremos 2 de ellas.
 
 - VirusTotal: Buscando el HASH MD5 del archivo.
 
-![image]("Imagen - Virustotal")
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/6-1-domain.jpg "VirusTotal")
 
 - AutoIT Ripper: Es un Script en python
 
-![image]("Imagen - AutoIT Ripper")
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/6-2-domain.jpg "AutoIT Ripper")
 	
 	office-cleaner-commander.com
 
@@ -94,7 +95,9 @@ Para el ejercicio se puede traer de varias formas, mostraremos 2 de ellas.
 
 Utilizando el mismo SCRIPT del punto anterior, logramos ver en la fila XX la cadena "XXXXXXX" con el valor "0x3A5C57696E646F77735C53797374656D33325C". Aquí podemos utilizar cualquier sitio web que convierta hexadecimal (HEX) a texto (TEXT).
 
-![image]("Imagen - AutoIT Ripper")
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/7-nameHEX.jpg "Name HEX")
+
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/7-nameTEXT.jpg "Name TEXT")
 
 	:\Windows\System32\
 	
@@ -103,7 +106,7 @@ Utilizando el mismo SCRIPT del punto anterior, logramos ver en la fila XX la cad
 
 Que es una DLL: Es un tipo especial de archivo que contiene código y datos que pueden ser utilizados por múltiples programas al mismo tiempo.
 
-![image]("Imagen - AutoIT Ripper")
+![image](https://github.com/jccerquera/LetsDef-Beg_MaliciousAutoIT/blob/main/img/8-dllCall.jpg "DLL Name")
 
 	user32.dll
 
