@@ -108,6 +108,16 @@ Que es una DLL: Es un tipo especial de archivo que contiene código y datos que 
 	user32.dll
 
 
+# Herramientas Utilizadas
+
+- Detect IT Easy (DIE) (https://github.com/horsicq/Detect-It-Easy)
+
+- VirusTotal (https://www.virustotal.com/)
+
+- AutoIT Easy (https://github.com/nazywam/AutoIt-Ripper)
+
+- CyberChef (Se puede buscar cualquier herramienta que convierta desde HEX a TEXT)
+
 
 
 
