@@ -116,4 +116,4 @@ Que es una DLL: Es un tipo especial de archivo que contiene código y datos que 
 
 - AutoIT Easy (https://github.com/nazywam/AutoIt-Ripper)
 
-- CyberChef (https://gchq.github.io/CyberChef/)[Se puede buscar cualquier herramienta que convierta desde HEX a TEXT]
+- CyberChef (https://gchq.github.io/CyberChef/) [Se puede buscar cualquier herramienta que convierta desde HEX a TEXT]
