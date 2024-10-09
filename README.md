@@ -1,6 +1,6 @@
 ## *Disclaimer*
 
-*Este contenido es de caracter personal, de autoaprendizaje constante y recurrente, adicional quiero compartir con fines informativos y de aprendizaje para los demás profesionales de este sector. Es de aclarar que, los ejemplos y escenarios presentados son hipotéticos, así mismo, las plataformas utilizadas son públicas en donde pueden reflejar situaciones similares a las de las compñaías; estás plataformas cuentan con diferentes escenarios y en sus laboratorios. Las tecnologíasal igual que las herramientas utilizadas están sujetas a cambios constantes.*
+*Este contenido es de caracter personal, de autoaprendizaje constante y recurrente. Por consiguiente, quiero compartir con fines informativos y de ayuda  para los demás profesionales del sector. Es de aclarar que, los ejemplos y escenarios presentados son hipotéticos, así mismo, las plataformas utilizadas son públicas en donde pueden reflejar situaciones similares a las de las algunas compñaías; estás plataformas cuentan con diferentes escenarios y laboratorios. Las tecnologías al igual que las herramientas utilizadas están sujetas a cambios constantes.*
 
 # LetsDefend | Malicious AutoIT
 
