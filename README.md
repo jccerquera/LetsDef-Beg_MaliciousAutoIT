@@ -51,6 +51,66 @@ Formato de respuesta: 0x0000
  
  	+ 0000: Cuatro dígitos hexadecimales que puede tomar valores del 0 al 9 y de la A a la F.
 
-![image]("Imagen - Ejercicio 2")
+![image]("Imagen - Ejercicio 3")
 
 	0x1000
+
+
+### 4. Según la herramienta Detect Easy, ¿Cuál es el "time date stamp"? ###
+	
+- Time Date Stamp(sello de fecha y hora): Es la marca de tiempo que indica la última vez que se creó, modificó o se accedió al archivo.
+
+![image]("Imagen - Ejercicio 4")
+
+	2020-02-26 21:41:13
+
+
+### 5. Según la herramienta Detect It Easy (DIE), ¿Cuál es la dirección del punto de entrada del ejecutable? ###
+Formato de respuesta: 0x000000
+	
+- Entry Point (dirección del punto de entrada): Es el lugar exacto en el código donde comienza la ejecución del programa cuando se inicia. Es representado en hexadecimal (HEX) debido a que indica la ubicación exacta de la primera instrucción del programa en memoria.
+
+![image]("Imagen - Ejercicio 5")
+	
+	0x42800a
+
+
+### 6. ¿Cuál es el dominio utilizado por el código malicioso incrustado? ###
+
+Para el ejercicio se puede traer de varias formas, mostraremos 2 de ellas.
+
+- VirusTotal: Buscando el HASH MD5 del archivo.
+
+![image]("Imagen - Virustotal")
+
+- AutoIT Ripper: Es un Script en python
+
+![image]("Imagen - AutoIT Ripper")
+	
+	office-cleaner-commander.com
+
+	
+7. ¿Cuál es la ruta del archivo codificada en hexadecimal en el código malicioso?
+
+Utilizando el mismo SCRIPT del punto anterior, logramos ver en la fila XX la cadena "XXXXXXX" con el valor "0x3A5C57696E646F77735C53797374656D33325C". Aquí podemos utilizar cualquier sitio web que convierta hexadecimal (HEX) a texto (TEXT).
+
+![image]("Imagen - AutoIT Ripper")
+
+	:\Windows\System32\
+	
+
+8. ¿Cuál es el nombre de la DLL invocada por el código malicioso?
+
+Que es una DLL: Es un tipo especial de archivo que contiene código y datos que pueden ser utilizados por múltiples programas al mismo tiempo.
+
+![image]("Imagen - AutoIT Ripper")
+
+	user32.dll
+
+
+
+
+
+
+
+ 
