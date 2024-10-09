@@ -47,9 +47,9 @@ Formato de respuesta: 0x0000
 
 - ¿Qué es este formato 0x0000?: Notación hexadecimal. Es la forma de representar números en base 16.
 
-	+ 0x: Indica que el número que sigue está en formato hexadecimal.
+	+ 0x: Indica que el número siguiente está en formato hexadecimal (HEX).
  
- 	+ 0000: Son cuatro dígitos hexadecimales. Cada dígito puede tomar valores del 0 al 9 y de la A a la F.
+ 	+ 0000: Cuatro dígitos hexadecimales que puede tomar valores del 0 al 9 y de la A a la F.
 
 ![image]("Imagen - Ejercicio 2")
 
